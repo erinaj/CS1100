@@ -1,0 +1,12 @@
+// name and utc id
+
+import java.awt.Rectangle;
+
+public class HouseCalculator
+{
+    public static void main(String[] args) {
+        System.out.println("House Calculations begin now:");
+        //Your code for Lab02 will begin below this line...
+        
+    }
+}

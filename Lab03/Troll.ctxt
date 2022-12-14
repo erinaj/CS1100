@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Troll
+comment0.text=\n\ Write\ a\ description\ of\ class\ Troll\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=int\ getMaxHate()
+comment2.params=
+comment2.target=int\ getCurrentHate()
+comment3.params=maxH
+comment3.target=void\ setMaxHate(int)
+comment4.params=currentH
+comment4.target=void\ setCurrentHate(int)
+numComments=5

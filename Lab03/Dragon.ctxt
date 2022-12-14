@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Dragon
+comment0.text=\n\ Write\ a\ description\ of\ class\ Dragon\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=int\ getMaxFire()
+comment2.params=
+comment2.target=int\ getCurrentFire()
+comment3.params=maxF
+comment3.target=void\ setMaxFire(int)
+comment4.params=currentF
+comment4.target=void\ setCurrentFire(int)
+numComments=5

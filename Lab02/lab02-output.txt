@@ -1,0 +1,36 @@
+House Calculations begin now:
+The height of the house is 25.5
+The width of the house is 65.2
+The depth of the house is 75.75
+
+The height of the windows is 1.2
+The width of the windows is 0.75
+The number of the windows is 19
+
+The height of the doors is 1.75
+The width of the doors is 0.95
+The number of doors is 5
+
+The surface area of the floor and roof is 4938.900000000001 for each.
+The surface area of the left and right walls is 1931.625 for each.
+The surface area of the front and back wall is 1662.6000000000001 for each.
+
+This is Erin's small and boring house and it has a surface area of 17066.25
+The surface area minus the windows is 17049.15
+The surface area minus the windows and doors is 17040.8375
+This house belongs to Erin and is pretty good
+
+Rectangle x location: 7.0
+Rectangle y location: 13.0
+Rectangle width: 5.0
+Rectangle height: 10.0
+
+After growing Rectangle:
+Rectangle x location: 5.0
+Rectangle y location: 9.0
+Rectangle width: 9.0
+Rectangle height: 18.0
+
+After translating Rectangle:
+Rectangle x location: 7.0
+Rectangle y location: 13.0

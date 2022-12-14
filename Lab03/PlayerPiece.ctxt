@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=PlayerPiece
+comment0.text=\n\ Write\ a\ description\ of\ class\ PlayerPiece\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=int\ getMaxHealth()
+comment10.params=
+comment10.target=void\ moveRight()
+comment2.params=
+comment2.target=int\ getCurrentHealth()
+comment3.params=
+comment3.target=int\ getLocX()
+comment4.params=
+comment4.target=int\ getLocY()
+comment5.params=
+comment5.target=int\ getAttackPower()
+comment6.params=y
+comment6.target=int\ getDefensePower(int)
+comment7.params=
+comment7.target=void\ moveUp()
+comment8.params=
+comment8.target=void\ moveDown()
+comment9.params=
+comment9.target=void\ moveLeft()
+numComments=11
