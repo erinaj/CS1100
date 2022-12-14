@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=LoopsComputer
+comment0.text=\n\ Write\ a\ description\ of\ class\ LoopsComputer\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ computeEvenSum()
+comment2.params=
+comment2.target=void\ computeSquareSum()
+comment3.params=
+comment3.target=void\ printPowers()
+comment4.params=a\ b
+comment4.target=void\ oddSum(int,\ int)
+numComments=5

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=StringManipulator
+comment0.text=\n\ Write\ a\ description\ of\ class\ StringManipulator\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=line
+comment1.target=StringManipulator(java.lang.String)
+comment2.params=
+comment2.target=void\ printUpper()
+comment3.params=
+comment3.target=void\ printEveryOther()
+comment4.params=
+comment4.target=void\ vowelsToUnderscore()
+comment5.params=
+comment5.target=void\ printVowelCount()
+comment6.params=
+comment6.target=void\ printVowelPositions()
+numComments=7

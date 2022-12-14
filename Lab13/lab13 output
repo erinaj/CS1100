@@ -1,0 +1,32 @@
+Printing rectangle with 3 rows and 4 columns:
+****
+****
+****
+
+Printing the primes array:
+2
+3
+5
+7
+11
+
+Printing the random array:
+46
+38
+47
+66
+59
+55
+58
+80
+2
+99
+
+Printing the evens from the random array:
+46
+38
+66
+58
+80
+2
+Found 6 evens in input array.

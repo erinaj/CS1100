@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Lab13
+comment0.text=\n\ @Erin\ Jones\ HPY346\n\ @12/3/22\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=rows\ columns
+comment2.target=void\ printRectangle(int,\ int)
+comment3.params=a
+comment3.target=void\ printArray(int[])
+comment4.params=size
+comment4.target=int[]\ getRandomArray(int)
+comment5.params=a
+comment5.target=void\ printEvens(int[])
+numComments=6

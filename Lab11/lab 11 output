@@ -1,0 +1,76 @@
+Task 1:
+The sum of all even numbers between 0-100 is 2550
+The sum of all squares between 0-100 is 338350
+The powers of 2 from 2^0 to 2^20 are
+2^0 is 1
+2^1 is 2
+2^2 is 4
+2^3 is 8
+2^4 is 16
+2^5 is 32
+2^6 is 64
+2^7 is 128
+2^8 is 256
+2^9 is 512
+2^10 is 1024
+2^11 is 2048
+2^12 is 4096
+2^13 is 8192
+2^14 is 16384
+2^15 is 32768
+2^16 is 65536
+2^17 is 131072
+2^18 is 262144
+2^19 is 524288
+2^20 is 1048576
+The sum of all odd numbers between a and b is 25
+
+Task 2:
+Enter values here to determine largest and smallest integer.
+Enter any letter to stop. 
+3
+4
+5
+h
+The largest one is 5
+The smallest one is 3
+
+Enter values here to determine number of even and odd.
+Enter any letter to stop. 
+7
+8
+6
+f
+The number of even numbers is 2
+The number of odd numbers is 1
+
+Enter values here to determine cumulative total
+Enter any letter to stop. 
+7
+7
+9
+16
+3
+19
+g
+
+Task 3:
+Enter a String type here: 
+Erin Jones
+The Upper Case Letter(s) are 
+E
+J
+Every other letter is: 
+E
+i
+ 
+o
+e
+The vowels to underscores are
+_r_n J_n_s
+The number of vowels is 4
+The vowel positions are
+0
+2
+6
+8

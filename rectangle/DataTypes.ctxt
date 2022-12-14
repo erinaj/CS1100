@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=DataTypes
+comment0.text=\n\ Write\ a\ description\ of\ class\ DataTypes\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=DataTypes()
+comment2.params=bValue
+comment2.target=DataTypes(boolean)
+comment3.params=givenDouble\ givenChar
+comment3.target=DataTypes(double,\ char)
+comment4.params=
+comment4.target=boolean\ getbValue()
+comment5.params=
+comment5.target=double\ getdoubleNumber()
+comment6.params=
+comment6.target=double\ getcharValue()
+comment7.params=bValue
+comment7.target=void\ setbValue(boolean)
+numComments=8
