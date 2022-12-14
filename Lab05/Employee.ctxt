@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Employee
+comment0.text=\n\ Creating\ accessor\ and\ mutator\ methods\ to\ store\ and\ manipulate\ data\ including\ an\ employee's\ name,\ job\ title,\n\ salary,\ and\ number\ of\ sick\ days.\n\n\ Erin\ Jones\ HPY346\n\ 9/21/22\n
+comment1.params=givenName\ title
+comment1.target=void\ NewEmployee(java.lang.String,\ java.lang.String)
+comment10.params=newTitle
+comment10.target=void\ changeJobTitle(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getGivenName()
+comment3.params=
+comment3.target=java.lang.String\ getJobTitle()
+comment4.params=
+comment4.target=double\ getSalary()
+comment5.params=
+comment5.target=int\ getSickDays()
+comment6.params=percent
+comment6.target=void\ increaseSalary(double)
+comment7.params=percent
+comment7.target=void\ decreaseSalary(double)
+comment8.params=
+comment8.target=void\ addSickDay()
+comment9.params=
+comment9.target=void\ removeSickDay()
+numComments=11

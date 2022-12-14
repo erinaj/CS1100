@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CarSimulator
+comment0.text=\n\ Write\ a\ description\ of\ class\ CarSimulator\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=newGal\ newMpergal\ newPrice
+comment1.target=CarSimulator(double,\ double,\ double)
+comment2.params=
+comment2.target=double\ getCostPer100Miles()
+comment3.params=
+comment3.target=double\ getDistance()
+numComments=4

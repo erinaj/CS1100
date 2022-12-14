@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CarSimulator
+comment0.text=\n\ Write\ a\ description\ of\ class\ CarSimulator\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=leftDashSwitch\ rightDashSwitch\ childLock\ masterUnlock\ leftInside\ rightInside\ leftOutside\ rightOutside\ gear
+comment1.target=java.lang.String\ checkDoors(int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ CarSimulator.GearShift)
+numComments=2

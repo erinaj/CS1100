@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=NumberCalculator
+comment0.text=\n\ Write\ a\ description\ of\ class\ NumberCalculator\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=givenA\ givenB
+comment1.target=NumberCalculator(int,\ int)
+comment2.params=
+comment2.target=int\ getSum()
+comment3.params=
+comment3.target=int\ getDifference()
+comment4.params=
+comment4.target=int\ getProduct()
+comment5.params=
+comment5.target=double\ getAverage()
+comment6.params=
+comment6.target=int\ getDistance()
+comment7.params=
+comment7.target=int\ getMaximum()
+comment8.params=
+comment8.target=int\ getMinimum()
+numComments=9

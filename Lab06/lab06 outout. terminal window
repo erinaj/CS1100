@@ -1,0 +1,86 @@
+Step 1:
+Variables and values
+My byte variable bt is = 12
+My short variable s is = 8
+My int variable i is = 10
+My long variable l is = 100
+My float variable f is = 2.0
+My double variable dbl is = 10.0
+My boolean variable bln is = true
+My char variable ch is = A
+
+New variables and values:
+My new byte variable bt is = 6
+My new short variable s is = 3
+My new int variable i is = 5
+My new long variable l is = 50
+My new float variable f is = 9.0
+My new double variable dbl is = 3.0
+My new boolean variable bln is = false
+My new char variable ch is = B
+
+Constants and values:
+My byte constant bt1 is = 6
+My short constant s1 is = 9
+My int constant i1 is = 14
+My long constant l1 is = 21
+My float constant f1 is = 6.0
+My double constant dbl1 is = 8.0
+My boolean constant bln1 is = true
+My char constant ch1 is = C
+When you try to assign a value to a constant you get an error message.
+
+Step 2:
+1
+3
+4
+3
+4
+2
+3
+1
+4
+21
+0
+2.0
+81.0
+3
+4
+
+Step 3:
+5
+8
+The smaller of the two numbers is 5
+
+Step 4:
+Number of Filled Jars: 7
+The code tried to assign a double to an int so I had to assign the value to int instead.
+
+Step 5:
+3.5 yards are 10.5 feet
+3.5 yards are 126.0 inches
+
+Step 6:
+The new value of x is 11
+The new value of y is -2
+
+Step 7:
+106035.99200045236
+Enter pmt, i, and n
+90000
+.09
+10
+629572.2204836991
+
+Step 8:
+average age: 36.75
+The output of the following code is 36.0 even though the correct answer is 36.75.
+This is because the initial values are integer types and will not deal with decimals.
+Instead, it will print the whole number below.
+
+Step 9:
+The output is 869 because the computer outputs a decimal and does not know to round up to the correct number.
+870
+
+Step 10:
+The outputString is Tempus fugit

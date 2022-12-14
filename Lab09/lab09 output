@@ -1,0 +1,26 @@
+Task 1:
+The value of 4 is positive
+The value of 0 is zero
+The value of -7 is negative
+
+Task 2:
+The value of 1000001.0 is positive and large
+The value of -5.0 is negative
+The value of -0.1 is negative and small
+The value of 87.0 is positive
+The value of 0.0 is zero and small
+
+Task 3:
+-4 has 1 digit
+11 has 2 digits
+-141 has 3 digits
+4511 has 4 digits
+-76849 has 5 digits
+838461 has 6 digits
+1182740 has 7 digits
+-91519465 has 8 digits
+
+Task 4:
+If the voltage is 16.0 the Temperature is 400.00
+If the voltage is 13.0 the Temperature is 78.57
+Error: Voltage out of range

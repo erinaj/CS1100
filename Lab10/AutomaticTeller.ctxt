@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=AutomaticTeller
+comment0.text=\n\ Write\ a\ description\ of\ class\ AutomaticTeller\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=PIN
+comment1.target=AutomaticTeller(int)
+comment2.params=
+comment2.target=void\ validateUser()
+numComments=3

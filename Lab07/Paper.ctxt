@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Paper
+comment0.text=\n\ Write\ a\ description\ of\ class\ Paper\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=givenHeight\ givenWidth
+comment1.target=Paper(double,\ double)
+comment2.params=
+comment2.target=double\ getWidthInMillimeters()
+comment3.params=
+comment3.target=double\ getHeightInMillimeters()
+comment4.params=
+comment4.target=double\ getWidthInInches()
+comment5.params=
+comment5.target=double\ getHeightInInches()
+numComments=6

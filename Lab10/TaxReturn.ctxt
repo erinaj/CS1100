@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TaxReturn
+comment0.text=\n\ Write\ a\ description\ of\ class\ TaxReturn\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=anIncome\ fs
+comment1.target=TaxReturn(double,\ TaxReturn.FilingStatus)
+comment2.params=
+comment2.target=double\ getTax()
+numComments=3

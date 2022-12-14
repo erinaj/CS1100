@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=DigitalThermometer
+comment0.text=\n\ Write\ a\ description\ of\ class\ DigitalThermometer\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=givenDouble
+comment1.target=DigitalThermometer(double)
+comment2.params=newD
+comment2.target=void\ setValue(double)
+comment3.params=
+comment3.target=double\ getValue()
+comment4.params=
+comment4.target=void\ calculateTemp()
+numComments=5

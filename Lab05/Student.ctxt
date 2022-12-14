@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\n\ Creating\ accessor\ and\ mutator\ methods\ to\ store\ and\ manipulate\ data\ including\ a\ student's\ name,\n\ total\ quiz\ score,\ number\ of\ quizes,\ and\ average\ score.\n\n\ Erin\ Jones\ HPY346\n\ 9/21/22\n
+comment1.params=name
+comment1.target=void\ NewStudent(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=score
+comment3.target=void\ addQuiz(double)
+comment4.params=
+comment4.target=double\ getTotalScore()
+comment5.params=
+comment5.target=double\ getAverageScore()
+comment6.params=
+comment6.target=int\ getNumQuiz()
+numComments=7

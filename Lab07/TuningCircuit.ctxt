@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TuningCircuit
+comment0.text=\n\ Write\ a\ description\ of\ class\ TuningCircuit\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=givenFreq\ givenCMin\ givenCMax
+comment1.target=TuningCircuit(double,\ double,\ double)
+comment2.params=
+comment2.target=double\ getFMin()
+comment3.params=
+comment3.target=double\ getFMax()
+numComments=4

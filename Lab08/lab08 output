@@ -1,0 +1,15 @@
+Enter the x,y coordinates of three points in this order: x1,y1,x2,y2,x3,y3
+-5
+0
+4
+0
+0
+7
+The length of side 1 is 8.062
+The length of side 2 is 8.602
+The length of side 3 is 9.000
+Angle 1 is 54.462
+Angle 2 is 60.255
+Angle 3 is 65.283
+The perimeter of the triangle is 25.665
+The area of the triangle is 31.500
